@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+# Dataset CSVs are NOT stored in Git (885 MB total, several files over the 100 MB GitHub limit)
+# See data/README.md for the download source and expected location.
+data/*.csv
